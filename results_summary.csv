@@ -1,0 +1,14 @@
+Analysis,Category,Total Records,Defaults,Default Rate
+Overall,All Loans,148670,36639,24.64%
+Loan Type,type1,113173,25775,22.77%
+Loan Type,type2,20762,7172,34.54%
+Loan Type,type3,14735,3692,25.06%
+Region,North-East,1235,376,30.45%
+Region,central,8697,2395,27.54%
+Region,south,64016,17047,26.63%
+Region,North,74722,16821,22.51%
+LTV,Below 60,32565,4534,13.92%
+LTV,60-69,19836,2479,12.50%
+LTV,70-79,30059,3977,13.23%
+LTV,80-89,26153,4822,18.44%
+LTV,90+,40057,20827,51.99%

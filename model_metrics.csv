@@ -1,0 +1,4 @@
+Model,Accuracy,Weighted Precision,Weighted Recall,Weighted F1,Default Precision,Default Recall,Default F1
+Logistic Regression,87.21%,87.93%,87.21%,85.86%,92.93%,52.41%,67.02%
+Random Forest,100.00%,100.00%,100.00%,100.00%,100.00%,100.00%,100.00%
+Random Forest Without Top 3 Features,87.68%,,,,,
