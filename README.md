@@ -333,42 +333,27 @@ The Random Forest prediction output contains **29,521 test predictions**.
 
 ## 12. Repository Structure
 
-```text
 loan-default-prediction-big-data/
 │
 ├── README.md
+├── Loan_Default_Analysis.ipynb
+├── Loan_Default_Prediction_Big_Data_Analytics_Report.docx
+├── loan_default_queries.sql
+├── model_metrics.csv
+├── results_summary.csv
 │
-├── notebooks/
-│   └── Loan_Default_Analysis.ipynb
-│
-├── hive/
-│   └── loan_default_queries.sql
-│
-├── results/
-│   ├── loan_type_analysis/
-│   ├── region_analysis/
-│   ├── ltv_analysis/
-│   └── model_metrics/
-│
-├── screenshots/
-│   ├── 01_Docker_Stack.png
-│   ├── 02_HDFS_Raw_Dataset.png
-│   ├── 03_HDFS_Directory.png
-│   ├── 04_Hive_Database_Table.png
-│   ├── 05_Hive_Schema.png
-│   ├── 06_Hive_Analytics.png
-│   ├── 07_Spark_HDFS_Ingestion.png
-│   ├── 08_Spark_Data_Cleaning.png
-│   ├── 09_Feature_Engineering.png
-│   ├── 10_Model_Evaluation.png
-│   ├── 11_HDFS_Results.png
-│   └── 12_RF_Predictions_HDFS.png
-│
-└── docs/
-    └── Loan_Default_Prediction_Big_Data_Analytics_Report.docx
-```
-
----
+├── Screenshot 2026-08-09 182702.png
+├── Screenshot 2026-10-04 011203.png
+├── Screenshot 2026-10-04 011223.png
+├── Screenshot 2026-10-04 011850.png
+├── Screenshot 2026-10-04 011904.png
+├── Screenshot 2026-10-04 011931.png
+├── Screenshot 2026-10-04 012021.png
+├── Screenshot 2026-10-04 012138.png
+├── Screenshot 2026-10-04 012404.png
+├── Screenshot 2026-10-04 012510.png
+├── Screenshot 2026-10-04 012522.png
+└── Screenshot 2026-10-04 012538.png
 
 ## 13. How to Run
 
@@ -468,10 +453,8 @@ The observed overall default rate is 24.64%. The analysis identifies differences
 
 ---
 
-## 18. Author
-
-**Sanjai Muruganandam**  
-MSc Data Science and Analytics  
+## By Team 5 - Section B
+II MSc Data Science and Analytics  
 Jain University, Bengaluru
 
 ---
