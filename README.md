@@ -453,7 +453,7 @@ The observed overall default rate is 24.64%. The analysis identifies differences
 
 ---
 
-## By Team 5 - Section B
+## 18. By Team 5 - Section B
 II MSc Data Science and Analytics  
 Jain University, Bengaluru
 
